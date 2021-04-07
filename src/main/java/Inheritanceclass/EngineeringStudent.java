@@ -1,4 +1,4 @@
-package Class;
+package Inheritanceclass;
 
 public class EngineeringStudent extends Student
 

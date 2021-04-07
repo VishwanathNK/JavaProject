@@ -1,4 +1,4 @@
-package Class;
+package Inheritanceclass;
 
 public class Student extends Person {
     // defining additional properties to child class

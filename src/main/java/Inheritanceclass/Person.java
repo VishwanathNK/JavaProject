@@ -1,4 +1,4 @@
-package Class;
+package Inheritanceclass;
 
  class Person
 {
